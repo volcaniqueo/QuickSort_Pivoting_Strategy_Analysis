@@ -4,7 +4,7 @@ This project was my 3rd Homework for the course CMPE 300 (Analysis of Algorithms
 In this project we have implemented four different versions of QuickSort algorithm. Then with the help of runtime data, we discussed their efficiency with respect to worst & average cases. The detailed information about the versions and the methodology about the project can be found in the description file.
 Runtime data and the corresponding inputs can be found in the file 'VolkanOzturkAS1.pdf'. The general table and comments about the data can be found in the file 'VolkanOzturkAS2.pdf'.
 
-Ver1: Classical deterministic algorithm. (Pivot chosen as the firts element of the array.)
+Ver1: Classical deterministic algorithm. (Pivot chosen as the first element of the array.)
 
 Ver2: Randomized algorithm. (Pivot chosen randomly.)
 
@@ -22,6 +22,6 @@ Then, one can run the code with:
 
 ```python3 tester.py```
 
-The inputs and corresponding runtime date for four different versions of the algorithm will be printed on the console. For the average case ('Case' = '1') there will be five different inputs and for the average runtime data is calculated from their mean. For the worst case there will be just one input. for either case, there will be four different runtime statistics corresponding four different implementation strategies for the QuickSort algorithm. (ex: average1 depicts the Ver1 etc.)
+The inputs and corresponding runtime date for four different versions of the algorithm will be printed on the console. For the average case ('Case' = '1') there will be five different inputs, and for the average runtime data is calculated from their mean. For the worst case there will be just one input. For either the case, there will be four different runtime statistics corresponding four different implementation strategies for the QuickSort algorithm. (ex: average1 depicts the Ver1 etc.)
 ## Final Note
 The environment for the runtime data: Lenovo Thinkpad / OS: Ubuntu.
