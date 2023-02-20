@@ -18,7 +18,7 @@ First, one should decide following three HARDCODED specifications and change the
 2) 'IntType' : '1' (Each element of the list is an integer between 1 and 10 * n, chosen randomly.) '2' (Each element of the list is an integer between 1 and 0.75 * n, chosen randomly.) '3' (Each element of the list is an integer between 1 and 0.25 * n, chosen randomly.) '4' (All the elements are integer 1.)
 3) 'n' : The number of elements in the array.
 
-Then, one can run the code with:
+Then, one can run the code with (All .py files in the codes_volcaniqueo should be in the same directory.):
 
 ```python3 tester.py```
 
