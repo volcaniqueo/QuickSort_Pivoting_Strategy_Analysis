@@ -1,7 +1,7 @@
 # QuickSort_Pivoting_Strategy_Analysis
 This project was my 3rd Homework for the course CMPE 300 (Analysis of Algorithms) at Bogazici University. This project focuses on four different implementation strategies for QuickSort algorithm and discusses their advantages &amp; disadvantages respectively.
 ## About the Project
-In this project we have implemented four different versions of QuickSort algorithm. Then with the help of runtime data, we discussed their efficiency with respect to worst & average cases. The detailed information about the versions and the methodology about the project can be found on the description file.
+In this project we have implemented four different versions of QuickSort algorithm. Then with the help of runtime data, we discussed their efficiency with respect to worst & average cases. The detailed information about the versions and the methodology about the project can be found in the description file.
 Runtime data and the corresponding inputs can be found in the file 'VolkanOzturkAS1.pdf'. The general table and comments about the data can be found in the file 'VolkanOzturkAS2.pdf'.
 
 Ver1: Classical deterministic algorithm. (Pivot chosen as the firts element of the array.)
