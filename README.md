@@ -22,6 +22,6 @@ Then, one can run the code with (All .py files in the 'codes_volcaniqueo' should
 
 ```python3 tester.py```
 
-The inputs and corresponding runtime date for four different versions of the algorithm will be printed on the console. For the average case ('Case' = '1') there will be five different inputs, and for the average runtime data is calculated from their mean. For the worst case there will be just one input. For either the case, there will be four different runtime statistics corresponding four different implementation strategies for the QuickSort algorithm. (ex: average1 depicts the Ver1 etc.)
+The inputs and corresponding runtime date for four different versions of the algorithm will be printed on the console. For the average case ('Case' = '1') there will be five different inputs, and the average runtime data is calculated from their mean. For the worst case there will be just one input. For either the case, there will be four different runtime statistics corresponding four different implementation strategies for the QuickSort algorithm. (ex: average1 depicts the Ver1 etc.)
 ## Final Note
 The environment for the runtime data: Lenovo Thinkpad / OS: Ubuntu.
